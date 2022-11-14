@@ -1,0 +1,6 @@
+{
+    "jsonFile":["tw","vn","en"],
+    "inputType": "json",
+    "convertToExcel": true,
+    "convertToJson": true
+}
